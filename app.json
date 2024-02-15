@@ -1,4 +1,11 @@
 {
   "name": "Notification",
-  "displayName": "Notification"
+  "displayName": "Notification",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "cbdbe534-e68d-4c1d-bec2-59c5dfc59da7"
+      }
+    }
+  }
 }
